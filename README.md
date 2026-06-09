@@ -1,1 +1,0 @@
-# ppt--relational_algebra_calculus-
